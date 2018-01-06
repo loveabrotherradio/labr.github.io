@@ -89,15 +89,6 @@ body {
     padding-top: 1vh;
     max-height: 10vh;
 }
-.wow-logo{
-    padding-bottom: 2vh;
-    padding-top:10vh;
-}
-.img-logo{
-    max-height: 15vh;
-    margin-left: auto;
-    margin-right: auto;
-}
 .helmet{
     max-height: 5vh;
 }
@@ -163,7 +154,7 @@ hr{
     margin-top: 1vh;
 }
 h1,h2,h4,h3,h5,a,button{
-    font-family: 'Poppins', sans-serif;
+    font-family: sans-serif;
 }
 h1{
     font-size: 55px;
@@ -364,6 +355,13 @@ i.fa-heart{
 }
 .col-block{
      padding-left:0px;padding-right:0px;
+}
+
+th, td{
+width: 14%;
+vertical-align: top;
+font-size:80%;
+padding:2px;
 }
 
 input,select,textarea{
