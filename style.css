@@ -575,7 +575,7 @@ textarea{
 @media only screen and (max-height: 400px){
     .head-bar{
         padding-top: 1vh;
-        max-height: 10vh;
+        max-height: 14vh;
     }
     .wow-logo{
         padding-bottom: 2vh;
